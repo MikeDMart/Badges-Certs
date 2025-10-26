@@ -240,7 +240,7 @@
 
 ### **🌐 Official Verification Links**
 
-```bash
+
 🏅 Primary Verification: https://www.credly.com/badges/b516c720-fcff-4df9-996c-77a635dc5277
 🔗 Public URL: https://www.credly.com/badges/b516c720-fcff-4df9-996c-77a635dc5277/public_url
 📧 Credential ID: b516c720-fcff-4df9-996c-77a635dc5277
