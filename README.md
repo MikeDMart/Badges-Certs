@@ -1,108 +1,135 @@
-# 💀 BADGES & CERTS - Michael Douglas Martinez Chaves 💀
+# 🏆 Badges & Certifications - MikeDMart's Professional Portfolio
 
-![Certification Overlord](https://img.shields.io/badge/Certifications-25+-red)
-![Cybersecurity Beast](https://img.shields.io/badge/Cybersecurity-8_Certs-orange)
-![Cloud Master](https://img.shields.io/badge/Cloud-6_Certs-blue)
-![Linux Guru](https://img.shields.io/badge/Linux-7_Certs-green)
+![Certifications](https://img.shields.io/badge/Certifications-25+-brightgreen)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8_Certifications-orange)
+![Cloud](https://img.shields.io/badge/Cloud-6_Certifications-blue)
+![Linux](https://img.shields.io/badge/Linux-7_Certifications-success)
 
-> **⚠️ ADVERTENCIA:** Esta colección puede causar envidia profesional. Verificar constantemente tu nivel de habilidades.
+> **Professional IT portfolio showcasing expertise across cloud computing, cybersecurity, Linux administration, and software development.**
 
-## 🎯 **EL BOTÍN - STATS QUE IMPRESIONAN**
+## 📊 Certification Overview
 
-| Categoría | Certificaciones | Nivel | Estado |
-|-----------|-----------------|-------|---------|
-| ☁️ **Cloud** | 6 | **AVANZADO** | 🚀 DOMINADO |
-| 🔐 **Cybersecurity** | 8 | **ESPECIALISTA** | 💀 COMPROMETIDO |
-| 🐧 **Linux/DevOps** | 7 | **GURÚ** | 🔥 EN LLAMAS |
-| 🐍 **Programación** | 4 | **PRO** | ⚡ ELECTRIFICANTE |
+| Category | Certifications | Proficiency Level | Status |
+|----------|----------------|-------------------|---------|
+| ☁️ **Cloud** | 6 | **Advanced** | 🚀 Mastered |
+| 🔐 **Cybersecurity** | 8 | **Specialist** | ✅ Verified |
+| 🐧 **Linux/DevOps** | 7 | **Expert** | 🔧 Proficient |
+| 🐍 **Programming** | 4 | **Professional** | ⚡ Skilled |
 
-**TOTAL: 25+ CERTIFICACIONES Y SUBIENDO...**
+**TOTAL: 25+ CERTIFICATIONS AND GROWING**
 
 ---
 
-## ☁️ **CLOUD - DOMINANDO EL CIELO DIGITAL**
+## ☁️ Cloud Technologies
 
 ### **AWS Ecosystem**
-- `AWS Cloud Practitioner` - **La base está cubierta**
-- `Microsoft Azure Security Tools` - **Porque Azure también existe**
+- `AWS Cloud Practitioner` - Foundational cloud knowledge
+- `Microsoft Azure Security Tools` - Enterprise cloud security
 
-### **Google Cloud Platform** 
-- `Google Cloud Cybersecurity` - **Seguridad a nivel Google**
-- `Google IT Support` - **Los cimientos bien puestos**
+### **Google Cloud Platform**
+- `Google Cloud Cybersecurity` - Security at Google scale
+- `Google IT Support` - IT infrastructure fundamentals
 
 ### **IBM Cloud & DevOps**
-- `IBM DevOps and Software Engineering` - **Ingeniería de verdad**
-- `IBM Full Stack Software Developer` - **Full stack, full power**
-- `IBM Data Engineering` - **Los datos son el nuevo petróleo**
+- `IBM DevOps and Software Engineering` - Modern development practices
+- `IBM Full Stack Software Developer` - End-to-end development
+- `IBM Data Engineering` - Data pipeline expertise
 
 ---
 
-## 🔐 **CYBERSECURITY - PROTEGIENDO EL UNIVERSO DIGITAL**
+## 🔐 Cybersecurity
 
-### **Fundamentos Sólidos**
-- `Google Cybersecurity` - **Google aprobó mis skills**
-- `Microsoft Cybersecurity Analyst` - **Microsoft confía en mí**
-- `Cybersecurity Essentials (LFC108)` - **Linux Foundation validó**
+### **Core Security Foundations**
+- `Google Cybersecurity` - Comprehensive security training
+- `Microsoft Cybersecurity Analyst` - Enterprise security operations
+- `Cybersecurity Essentials (LFC108)` - Linux Foundation certified
 
-### **Especializaciones Avanzadas**
-- `Python for Cybersecurity` - **Automatizando la seguridad**
-- `OWASP Top 10 Security Threats (SKF100)` - **Conozco al enemigo**
-- `Microsoft Azure Security Tools` - **Seguridad en la nube empresarial**
-
----
-
-## 🐧 **LINUX & DEVOPS - EL CORAZÓN DE LA OPERACIÓN**
-
-### **Linux Foundation Certified**
-- `LFD103: Linux Kernel Development` - **¿Kernel? Challenge accepted**
-- `LFS101: Introduction to Linux` - **Donde empezó todo**
-- `Linux Essentials` - **Cisco dijo: "Sabe lo que hace"**
-
-### **DevOps & Automatización**
-- `IBM DevOps and Software Engineering` - **CI/CD en las venas**
-- `Google IT Automation with Python` - **Python + Automatización = ❤️**
-- `Getting Started with Git and GitHub` - **Control de versiones master**
+### **Advanced Specializations**
+- `Python for Cybersecurity` - Security automation and scripting
+- `OWASP Top 10 Security Threats (SKF100)` - Web application security
+- `Microsoft Azure Security Tools` - Cloud security management
 
 ---
 
-## 🐍 **PROGRAMACIÓN - EL LENGUAJE DE LOS DIOSES**
+## 🐧 Linux & DevOps
 
-### **Python Puro**
-- `Python for Everybody` - **University of Michigan approved**
-- `Python for Cybersecurity` - **Infosec certified**
-- `Google IT Automation with Python` - **Google level**
+### **Linux Foundation Certifications**
+- `LFD103: Linux Kernel Development` - Low-level system understanding
+- `LFS101: Introduction to Linux` - Foundational system administration
+- `Linux Essentials` - Cisco validated Linux skills
 
-### **Data & Analytics**
-- `Google Data Analytics` - **Los datos cantan para mí**
-- `KNIME Analytics Platform` - **Analytics visual done right**
-- `IBM Data Engineering` - **Engineering a escala**
+### **DevOps & Automation**
+- `IBM DevOps and Software Engineering` - CI/CD and containerization
+- `Google IT Automation with Python` - Infrastructure automation
+- `Getting Started with Git and GitHub` - Version control mastery
 
 ---
 
-## 🛠️ **FUNDAMENTOS - LOS CIMIENTOS INQUEBRANTABLES**
+## 🐍 Programming & Data
+
+### **Python Development**
+- `Python for Everybody` - University of Michigan curriculum
+- `Python for Cybersecurity` - Security-focused programming
+- `Google IT Automation with Python` - Google-certified automation
+
+### **Data Analytics & Engineering**
+- `Google Data Analytics` - Data analysis and visualization
+- `KNIME Analytics Platform` - Visual data science
+- `IBM Data Engineering` - Scalable data solutions
+
+---
+
+## 🛠️ IT Fundamentals
 
 ### **Cisco Networking Academy**
-- `Networking Basics` - **La red es mi playground**
-- `Computer Hardware Basics` - **Conozco el hardware como mi bolsillo**
-- `Linux Unhatched` - **Donde el pingüino nació**
+- `Networking Basics` - Network infrastructure fundamentals
+- `Computer Hardware Basics` - Hardware components and troubleshooting
+- `Linux Unhatched` - Introduction to Linux systems
 
 ---
 
-## 📊 **EL DASHBOARD DEL ÉXITO**
+## 📈 Skills Dashboard
 
-```bash
-🎯 Estadísticas de Certificaciones:
+\`\`\`bash
+📊 Certification Statistics:
 ├── Cloud Platforms: 6
-├── Cybersecurity: 8  
+├── Cybersecurity: 8
 ├── Linux/DevOps: 7
 ├── Programming: 4
 ├── IT Fundamentals: 5
-└── TOTAL: 25+ (y contando...)
+└── TOTAL: 25+ (and growing)
 
-🚀 Skills Matrix:
+🛠️ Technical Skills Matrix:
 ├── ☁️ Cloud: AWS, GCP, Azure, IBM Cloud
-├── 🔐 Security: Threat Analysis, SIEM, Python Security
-├── 🐧 Linux: Kernel, Administration, Shell Scripting
+├── 🔐 Security: Threat Analysis, SIEM, Security Automation
+├── 🐧 Linux: Kernel, System Administration, Shell Scripting
 ├── ⚙️ DevOps: Docker, Kubernetes, CI/CD, Git
 ├── 🐍 Programming: Python, Data Analysis, Automation
-└── 🛠️ Fundamentals: Networking, Hardware, OS
+└── 🛠️ Fundamentals: Networking, Hardware, Operating Systems
+\`\`\`
+
+---
+
+## 🔗 Verification
+
+All certifications include official verification links:
+- 🌐 **Coursera**: Direct verification at coursera.org/verify
+- 🐧 **Linux Foundation**: Verifiable Credly badges
+- 🔧 **Cisco Networking Academy**: Official certifications
+- 📜 **Industry Leaders**: Google, IBM, Microsoft professional certificates
+
+---
+
+## 🎯 Career Roadmap
+
+- [ ] **AWS Solutions Architect**
+- [ ] **Kubernetes Certification**
+- [ ] **Terraform Associate**
+- [ ] **Advanced Security Certifications**
+- [ ] **Cloud Architecture Specializations**
+
+---
+
+> *"Continuous learning and professional development in the ever-evolving technology landscape."*
+
+*Last Updated: October 2025 | Professional IT Portfolio*
