@@ -155,7 +155,7 @@
 <div align="center">
 
 ### **🛠️ Kernel Development Expertise Matrix**
-
+```
 </div>
 
 | Skill Category             | Proficiency Level | Key Technologies |
@@ -168,7 +168,7 @@
 | **Build Systems**          | ⭐⭐⭐⭐⭐     | Kbuild, Cross-Compilation, Configuration |
 
 ---
-
+```
 ## 🎯 Core Competencies Mastered
 
 ### **🔧 Low-Level Systems Programming**
@@ -255,12 +255,6 @@
 🚀 Learning Path & Progression
 📚 Recommended Next Certifications
 
-
-
-
-
-
-
 🎯 Advanced Learning Tracks
 Linux Foundation Certifications:
 
@@ -325,14 +319,14 @@ By The Numbers:
 🌐 Global Recognition: Linux Foundation certified
 
 🎖️ Skills Distribution:
-
+```
 Kernel Architecture & Design   ████████████████████ 100%
 System Programming             ████████████████████ 100%
 Driver Development             ██████████████████░░ 90%
 Debugging & Profiling          ████████████████████ 100%
 Performance Optimization       ██████████████████░░ 90%
 Security Hardening             █████████████████░░░ 85%
-
+```
 
 🎓 About the Certified Professional:
 
@@ -367,8 +361,11 @@ LFD103: A Beginner's Guide to Linux Kernel Development
 Mastering the heart of Linux systems 🐧💙
 ```
 https://img.shields.io/badge/Linux_Foundation-Certified_Developer-FFD43B?style=for-the-badge&logo=linuxfoundation&logoColor=black
+
 https://img.shields.io/badge/Kernel_Development-Expert_Level-FF6B6B?style=for-the-badge&logo=c&logoColor=white
+
 https://img.shields.io/badge/Systems_Programming-Advanced-339AF0?style=for-the-badge&logo=terminal&logoColor=white
+
 https://img.shields.io/badge/Credly-Verified_Credential-blue?style=for-the-badge&logo=credly&logoColor=white
 ```
 Issued: October 2025 | Credential ID: b516c720-fcff-4df9-996c-77a635dc5277
