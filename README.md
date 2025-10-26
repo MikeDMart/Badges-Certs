@@ -1,4 +1,4 @@
-# 💀 BADGES & CERTS - EL ARSENAL TÉCNICO DE MIKEDMART 💀
+# 💀 BADGES & CERTS - Michael Douglas Martinez Chaves 💀
 
 ![Certification Overlord](https://img.shields.io/badge/Certifications-25+-red)
 ![Cybersecurity Beast](https://img.shields.io/badge/Cybersecurity-8_Certs-orange)
