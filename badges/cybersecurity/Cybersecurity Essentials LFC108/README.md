@@ -158,14 +158,14 @@
 
 </div>
 
-| Skill Category | Proficiency Level | Key Technologies |
-|----------------|-------------------|------------------|
-| **Kernel Architecture** | ⭐⭐⭐⭐⭐ | Process Management, Memory Systems, VFS |
-| **System Programming** | ⭐⭐⭐⭐⭐ | System Calls, IPC, Signal Handling |
-| **Driver Development** | ⭐⭐⭐⭐ | Character Devices, Module Programming |
-| **Debugging & Profiling** | ⭐⭐⭐⭐⭐ | KGDB, ftrace, perf, oprofile |
-| **Concurrency Management** | ⭐⭐⭐⭐ | Spinlocks, Mutexes, RCU, Atomic Ops |
-| **Build Systems** | ⭐⭐⭐⭐⭐ | Kbuild, Cross-Compilation, Configuration |
+| Skill Category             | Proficiency Level | Key Technologies |
+|----------------------------|-------------------|------------------|
+| **Kernel Architecture**    | ⭐⭐⭐⭐⭐     | Process Management, Memory Systems, VFS |
+| **System Programming**     | ⭐⭐⭐⭐⭐     | System Calls, IPC, Signal Handling |
+| **Driver Development**     | ⭐⭐⭐⭐        | Character Devices, Module Programming |
+| **Debugging & Profiling**  | ⭐⭐⭐⭐⭐     | KGDB, ftrace, perf, oprofile |
+| **Concurrency Management** | ⭐⭐⭐⭐        | Spinlocks, Mutexes, RCU, Atomic Ops |
+| **Build Systems**          | ⭐⭐⭐⭐⭐     | Kbuild, Cross-Compilation, Configuration |
 
 ---
 
@@ -248,15 +248,10 @@
 📅 Issued: October 2025
 📜 Credential Details
 🎖️ Digital Badge - Verifiable through Credly/Acclaim
-
 📄 PDF Certificate - Available through Linux Foundation
-
 🔗 Shareable URL - Professional portfolio integration
-
 📱 Social Media Ready - LinkedIn, Twitter integration
-
 🏢 Employer Verification - Direct verification for recruiters
-
 🚀 Learning Path & Progression
 📚 Recommended Next Certifications
 
@@ -267,145 +262,119 @@
 
 
 🎯 Advanced Learning Tracks
-Linux Foundation Certifications
-LFD420: Linux Kernel Debugging and Security
+Linux Foundation Certifications:
 
-LFD430: Linux Kernel Internals and Development
+-LFD420: Linux Kernel Debugging and Security
+-LFD430: Linux Kernel Internals and Development
+-LFD440: Linux Device Drivers Development
+-LFCS: Linux Foundation Certified Systems Administrator
+-LFCE: Linux Foundation Certified Engineer
 
-LFD440: Linux Device Drivers Development
+Complementary Skills:
 
-LFCS: Linux Foundation Certified Systems Administrator
-
-LFCE: Linux Foundation Certified Engineer
-
-Complementary Skills
 📊 Performance Engineering - System optimization
-
 🔒 Security Research - Kernel vulnerability analysis
-
 🏗️ Architecture Design - System design patterns
-
 🤖 Embedded Systems - Real-time kernel development
-
 ☁️ Cloud Infrastructure - Large-scale deployment
-
 🛠️ Development Environment & Tools
 💻 Essential Development Tools
-Tool	Purpose	Proficiency
-GCC & GDB	Compilation & Debugging	⭐⭐⭐⭐⭐
+
+Tool	Purpose	Proficiency:
+
+GCC & GDB	Compilation & Debugging	    ⭐⭐⭐⭐⭐
 Kbuild System	Kernel Build Management	⭐⭐⭐⭐⭐
-Git	Version Control	⭐⭐⭐⭐⭐
-QEMU	Virtualization Testing	⭐⭐⭐⭐
-perf & ftrace	Performance Analysis	⭐⭐⭐⭐
-KGDB/KDB	Kernel Debugging	⭐⭐⭐⭐
-🔧 Professional Workflow
-Cross-Compilation Setup - Multi-architecture development
+Git	Version Control	                  ⭐⭐⭐⭐⭐
+QEMU	Virtualization Testing	        ⭐⭐⭐⭐
+perf & ftrace	Performance Analysis	  ⭐⭐⭐⭐
+KGDB/KDB	Kernel Debugging	          ⭐⭐⭐⭐
 
-Kernel Configuration Management - Custom .config optimization
+🔧 Professional Workflow:
 
-Patch Creation & Submission - Upstream contribution process
-
-Continuous Integration - Automated build and test pipelines
-
-Documentation Standards - Kernel documentation practices
+-Cross-Compilation Setup - Multi-architecture development
+-Kernel Configuration Management - Custom .config optimization
+-Patch Creation & Submission - Upstream contribution process
+-Continuous Integration - Automated build and test pipelines
+-Documentation Standards - Kernel documentation practices
 
 🌍 Community & Open Source Impact
-🤝 Linux Kernel Community
-Mailing Lists - LKML participation and etiquette
+Linux Kernel Community
 
-Code Review Process - Patch review and feedback
+-Mailing Lists - LKML participation and etiquette
+-Code Review Process - Patch review and feedback
+-Maintainer Relationships - Subsystem maintainer collaboration
+-Contribution Guidelines - Kernel contribution standards
+-Conference Participation - Linux Foundation events
 
-Maintainer Relationships - Subsystem maintainer collaboration
+📈 Career in Open Source:
 
-Contribution Guidelines - Kernel contribution standards
+-Upstream Contributions - Getting code into mainline kernel
+-Subsystem Maintenance - Taking ownership of kernel components
+-Mentorship Opportunities - Guiding new kernel developers
+-Speaking Engagements - Conference presentations and workshops
+-Technical Leadership - Influencing kernel development direction
 
-Conference Participation - Linux Foundation events
+📊 Certification Impact Metrics 
+By The Numbers:
 
-📈 Career in Open Source
-Upstream Contributions - Getting code into mainline kernel
-
-Subsystem Maintenance - Taking ownership of kernel components
-
-Mentorship Opportunities - Guiding new kernel developers
-
-Speaking Engagements - Conference presentations and workshops
-
-Technical Leadership - Influencing kernel development direction
-
-📊 Certification Impact Metrics
-📈 By The Numbers
 ⏱️ Training Duration: 40-60 hours of intensive learning
-
 🛠️ Hands-on Labs: 15+ kernel programming exercises
-
 📚 Code Analysis: 1000+ lines of kernel code reviewed
-
 🎯 Skill Level: Advanced systems programming
-
 💼 Career Boost: 25-40% salary increase potential
-
 🌐 Global Recognition: Linux Foundation certified
 
-🎖️ Skills Distribution
-text
+🎖️ Skills Distribution:
+
 Kernel Architecture & Design   ████████████████████ 100%
 System Programming             ████████████████████ 100%
 Driver Development             ██████████████████░░ 90%
 Debugging & Profiling          ████████████████████ 100%
 Performance Optimization       ██████████████████░░ 90%
 Security Hardening             █████████████████░░░ 85%
-🎓 About the Certified Professional
-Michael Martinez Chaves
+
+
+🎓 About the Certified Professional:
 
 🐧 Linux Kernel Development Specialist
-
 🔐 Cybersecurity Professional (Google, Microsoft, Linux Foundation)
-
 ☁️ Cloud Security Expert (AWS, Google Cloud, Azure)
-
 💻 Full Stack Developer (IBM Certified)
-
 📊 Data Engineering Professional (IBM Certified)
-
 🚀 DevOps & Automation Specialist
 
-Kernel Development Expertise
+Kernel Development Expertise:
+
 🏗️ Architecture: Process management, memory systems, VFS
-
 🔧 Development: System calls, driver programming, module development
-
 🐛 Debugging: KGDB, ftrace, performance profiling
-
 ⚡ Optimization: Scheduling, memory management, I/O performance
-
 🔒 Security: Kernel hardening, vulnerability prevention
-
 📞 Professional Connections
+
 Interested in kernel development, systems programming, or technical collaboration?
 
 💼 LinkedIn: Michael Martinez Chaves
-
 🐙 GitHub: @MikeDMart
-
 🐧 Linux Foundation: Training Profile
-
 📧 Email: your.email@example.com
-
+```
 <div align="center">
+```
 🏅 Certification Achievement
+
 LFD103: A Beginner's Guide to Linux Kernel Development
-
 Mastering the heart of Linux systems 🐧💙
-
+```
 https://img.shields.io/badge/Linux_Foundation-Certified_Developer-FFD43B?style=for-the-badge&logo=linuxfoundation&logoColor=black
 https://img.shields.io/badge/Kernel_Development-Expert_Level-FF6B6B?style=for-the-badge&logo=c&logoColor=white
 https://img.shields.io/badge/Systems_Programming-Advanced-339AF0?style=for-the-badge&logo=terminal&logoColor=white
 https://img.shields.io/badge/Credly-Verified_Credential-blue?style=for-the-badge&logo=credly&logoColor=white
-
+```
 Issued: October 2025 | Credential ID: b516c720-fcff-4df9-996c-77a635dc5277
 
 "The Linux kernel is the largest collaborative software project in history." - Linus Torvalds
 
 This certification represents my commitment to understanding and contributing to the core of Linux systems, enabling me to solve complex problems at the most fundamental level of computing.
-
+```
 </div> ```
