@@ -90,24 +90,45 @@
 
 ## 📈 Skills Dashboard
 
-\`\`\`bash
-📊 Certification Statistics:
-├── Cloud Platforms: 6
-├── Cybersecurity: 8
-├── Linux/DevOps: 7
-├── Programming: 4
-├── IT Fundamentals: 5
-└── TOTAL: 25+ (and growing)
+🚀 CERTIFICATION PROGRESS (25+ Achieved)
+├── 🔐 Cybersecurity: 8 certifications
+├── ☁️ Cloud Platforms: 6 certifications  
+├── 🐧 Linux & DevOps: 7 certifications
+├── 💻 IT Fundamentals: 5 certifications
+├── 🐍 Programming: 4 certifications
+└── 📈 Completion: 85% of yearly goal
 
-🛠️ Technical Skills Matrix:
-├── ☁️ Cloud: AWS, GCP, Azure, IBM Cloud
-├── 🔐 Security: Threat Analysis, SIEM, Security Automation
-├── 🐧 Linux: Kernel, System Administration, Shell Scripting
-├── ⚙️ DevOps: Docker, Kubernetes, CI/CD, Git
-├── 🐍 Programming: Python, Data Analysis, Automation
-└── 🛠️ Fundamentals: Networking, Hardware, Operating Systems
-\`\`\`
+🛠️ TECHNICAL SKILLS MATRIX
+├── ☁️ Cloud & Infrastructure
+│   ├── AWS • GCP • Azure • IBM Cloud
+│   ├── OpenShift • Kubernetes • Docker
+│   └── Terraform • Ansible • GitOps
+├── 🔐 Security & Compliance  
+│   ├── Threat Analysis • Risk Assessment
+│   ├── SIEM • Security Automation
+│   └── Zero Trust • Supply Chain Security
+├── 🐧 Linux & System Administration
+│   ├── RHEL • Ubuntu • CentOS
+│   ├── Kernel • Performance Tuning
+│   └── Bash Scripting • Automation
+├── ⚙️ DevOps & SRE Practices
+│   ├── CI/CD Pipelines • GitLab • Jenkins
+│   ├── Monitoring • Observability
+│   └── Site Reliability Engineering
+├── 🐍 Programming & Automation
+│   ├── Python • Data Analysis
+│   ├── Scripting • REST APIs
+│   └── Process Automation
+└── 🌐 Core Infrastructure
+    ├── Networking • TCP/IP • DNS
+    ├── System Architecture
+    └── Hardware & Virtualization
 
+🎯 CURRENT FOCUS AREAS
+├── 🎯 Cloud-Native Security
+├── 🎯 Kubernetes Advanced Networking
+├── 🎯 DevSecOps Automation
+└── 🎯 AI/ML Infrastructure
 ---
 
 ## 🔗 Verification
