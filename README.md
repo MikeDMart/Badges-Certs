@@ -90,6 +90,11 @@
 
 ## 📈 Skills Dashboard
 
+<div align="center">
+
+## 📈 Skills Dashboard
+
+
 🚀 CERTIFICATION PROGRESS (25+ Achieved)
 ├── 🔐 Cybersecurity: 8 certifications
 ├── ☁️ Cloud Platforms: 6 certifications  
@@ -129,6 +134,7 @@
 ├── 🎯 Kubernetes Advanced Networking
 ├── 🎯 DevSecOps Automation
 └── 🎯 AI/ML Infrastructure
+</div> 
 ---
 
 ## 🔗 Verification
