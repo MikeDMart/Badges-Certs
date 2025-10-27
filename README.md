@@ -1,4 +1,4 @@
-# 🏆 Badges & Certifications - MikeDMart's Professional Portfolio
+# 🏆 Badges & Certifications - Michael Douglas Martinez Chaves Portfolio
 
 ![Certifications](https://img.shields.io/badge/Certifications-25+-brightgreen)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8_Certifications-orange)
